@@ -1415,6 +1415,10 @@ dt.time-entry {
 #main-menu ul li a.overview:before {
   content: "\f0e4";
 }
+
+#main-menu ul li a.map:before {
+  content: "\f041";
+}
 #main-menu ul li a.activity:before {
   content: "\f018";
 }
